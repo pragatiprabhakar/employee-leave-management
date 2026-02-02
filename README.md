@@ -2,11 +2,6 @@
 
 A comprehensive RESTful API-based HR management system for employee registration, department management, and leave request processing with role-based access control and approval workflows.
 
-![Java](https://img.shields.io/badge/Java-11-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-![Maven](https://img.shields.io/badge/Maven-3.6-red)
-
 ## Features
 
 **Admin:**
